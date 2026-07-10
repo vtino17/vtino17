@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Local GitHub statistics card for vtino17.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60A5FA"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .title{font:700 20px 'Segoe UI',Arial,sans-serif;fill:#C4B5FD}
+      .label{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#E5E7EB}
+      .value{font:800 24px 'Segoe UI',Arial,sans-serif;fill:#FFFFFF}
+      .muted{font:500 12px 'Segoe UI',Arial,sans-serif;fill:#A5B4FC}
+      .card{fill:#111827;stroke:#312E81;stroke-width:1.1;opacity:.96}
+    </style>
+  </defs>
+  <rect width="495" height="195" rx="12" fill="url(#bg)"/>
+  <rect x="18" y="18" width="459" height="159" rx="10" fill="#0B1020" stroke="#312E81" stroke-width="1" opacity=".85"/>
+  <text x="32" y="48" class="title">Vtino17 GitHub Stats</text>
+  <text x="32" y="70" class="muted">public engineering profile metrics</text>
+  <rect x="32" y="92" width="92" height="58" rx="8" class="card"/>
+  <rect x="142" y="92" width="92" height="58" rx="8" class="card"/>
+  <rect x="252" y="92" width="92" height="58" rx="8" class="card"/>
+  <rect x="362" y="92" width="92" height="58" rx="8" class="card"/>
+  <text x="52" y="118" class="value">1</text>
+  <text x="52" y="138" class="label">Repo</text>
+  <text x="162" y="118" class="value">3</text>
+  <text x="162" y="138" class="label">Followers</text>
+  <text x="272" y="118" class="value">3</text>
+  <text x="272" y="138" class="label">Following</text>
+  <text x="382" y="118" class="value">0</text>
+  <text x="382" y="138" class="label">Stars</text>
+  <path d="M32 164 C90 146, 126 166, 178 148 S278 132, 330 148 S414 170, 454 145" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+  <circle cx="454" cy="145" r="5" fill="#C084FC" filter="url(#glow)"/>
+</svg>
