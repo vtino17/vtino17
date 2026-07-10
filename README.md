@@ -1,15 +1,16 @@
 <div align='center'>
 
-<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,25:1E1B4B,55:4C1D95,80:7C3AED,100:312E81&text=Valentino%20Saputra&fontSize=50&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Network%20%26%20Cybersecurity%20%7C%20IT%20Support%20%7C%20Infrastructure%20Operations&descSize=16&descAlign=50&descAlignY=58' alt='Header banner' />
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0D1117,30:1E1B4B,65:4C1D95,100:7C3AED&text=Valentino%20Saputra&fontSize=44&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Network%20Security%20%7C%20Systems%20%7C%20AI%20%7C%20IoT&descSize=15&descAlign=50&descAlignY=58' alt='Header banner' />
 
-<img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Network+Engineering+and+Cybersecurity;MikroTik+Ubiquiti+Wazuh+SIEM+Fiber+Optic;IT+Support+NOC+and+Infrastructure+Operations;Practical+Security+Tools+and+Secure+Hosting' alt='Typing SVG' />
+<img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Network+Engineering+and+System+Administration;Cybersecurity+Operations+and+Secure+Infrastructure;IoT+Telemetry+and+AI-Assisted+Automation;Full-Stack+Tools+Built+with+Product+Mindset' alt='Typing SVG' />
 
 <br/>
 
-<img src='https://img.shields.io/badge/SMK%20TJKT-Network%20%26%20Telecommunication-7C3AED?style=flat-square&logo=readthedocs&logoColor=white' alt='TJKT badge' />
-<img src='https://img.shields.io/badge/LKS%20Cyber%20Security-Runner--Up%202026-6366F1?style=flat-square&logo=hackthebox&logoColor=white' alt='LKS Cyber Security badge' />
-<img src='https://img.shields.io/badge/Focus-Network%20Security%20%26%20Infrastructure-8B5CF6?style=flat-square&logo=linux&logoColor=white' alt='Network security badge' />
-<img src='https://img.shields.io/badge/Location-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white' alt='Location badge' />
+<img src='https://img.shields.io/badge/Network%20Engineering-Infrastructure-7C3AED?style=flat-square&logo=cisco&logoColor=white' alt='Network Engineering badge' />
+<img src='https://img.shields.io/badge/System%20Administration-Linux%20%26%20Windows-6366F1?style=flat-square&logo=linux&logoColor=white' alt='System Administration badge' />
+<img src='https://img.shields.io/badge/Cybersecurity-Defensive%20Engineering-8B5CF6?style=flat-square&logo=hackthebox&logoColor=white' alt='Cybersecurity badge' />
+<img src='https://img.shields.io/badge/AI%20%2B%20IoT-Automation%20Focus-4F46E5?style=flat-square&logo=tensorflow&logoColor=white' alt='AI IoT badge' />
+<img src='https://img.shields.io/badge/Location-Indonesia-312E81?style=flat-square&logo=googlemaps&logoColor=white' alt='Location badge' />
 
 <br/>
 <br/>
@@ -40,34 +41,21 @@
 
 ## About
 
-Fresh graduate from **SMKN 1 Sungailiat**, majoring in **Computer Network and Telecommunication Engineering (TJKT)**, with hands-on experience in network operations, IT support, infrastructure troubleshooting, and defensive cybersecurity.
+I build practical engineering systems across **networking**, **system administration**, **IT operations**, **cybersecurity**, **IoT**, and **AI-assisted automation**. My work focuses on reliable infrastructure, secure deployment, monitoring visibility, and tooling that solves real operational problems.
 
-My strongest areas are **MikroTik networking**, **wireless troubleshooting**, **fiber optic installation**, **Windows/Linux administration**, **Wazuh SIEM monitoring**, and practical field documentation such as BOQ, topology design, and site survey reporting.
+My core engineering direction combines software fundamentals with infrastructure thinking: designing maintainable tools, deploying services cleanly, securing network access, documenting systems clearly, and building products that are useful beyond a demo.
 
-I have worked in both government and ISP environments through **DINKOMINFOTIK Bangka** and **PT Parsaoran Global Datatrans / ION Network**, supporting endpoint maintenance, wireless network troubleshooting, NOC coordination, customer survey workflows, and L1 network operations.
+I am especially interested in network security monitoring, Linux and Windows server administration, MikroTik-based infrastructure, secure hosting, IoT telemetry, AI-assisted security workflows, and full-stack platforms that turn technical capability into usable products.
 
 **Open To**
 
 - Network Engineer / Network Technician roles
+- System Administrator / Junior Infrastructure roles
 - IT Support / Technical Support roles
-- NOC / L1 Network Operations roles
-- Junior Cybersecurity Analyst / SOC entry-level roles
-- Junior System Administrator roles
-- Infrastructure and security tooling projects
-
----
-
-## Core Competencies
-
-| Area | Practical Scope |
-|---|---|
-| Network Engineering | MikroTik RouterOS, VLAN, OSPF, static routing, hotspot, User Manager, firewall rules, load balancing |
-| Wireless & Field Support | Ubiquiti UniFi, TP-Link, H3C AP troubleshooting, LAN/WAN diagnostics, access point maintenance |
-| Fiber Optic | Splicing, dropcore, pigtail, patchcord, ODP handling, cable pulling, and physical installation basics |
-| System Administration | Windows Server 2022, Ubuntu Server, Debian Linux, VMware, Docker, endpoint and server maintenance |
-| Security Monitoring | Wazuh SIEM, endpoint visibility, home network monitoring, CCTV monitoring, basic alert analysis |
-| Web & Hosting | Domain management, dedicated server deployment, Cloudflare Tunnel, basic web security testing |
-| Documentation | BOQ, Excel, Visio topology design, Google Earth/KMZ mapping, survey reporting, technical handoff |
+- Cybersecurity Analyst / SOC entry-level roles
+- IoT security and monitoring projects
+- AI-assisted security automation projects
+- Full-stack security tooling collaboration
 
 ---
 
@@ -75,58 +63,128 @@ I have worked in both government and ISP environments through **DINKOMINFOTIK Ba
 
 <div align='center'>
 
-### Network, Security & Infrastructure
+### Languages
+
+<img src='https://skillicons.dev/icons?i=python,js,ts,php,bash,c,cpp,java&theme=dark' alt='Languages' />
+
+### Frontend
+
+<img src='https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark' alt='Frontend' />
+
+### Backend & Databases
+
+<img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel,mysql,postgres,mongodb,redis&theme=dark' alt='Backend and databases' />
+
+### Cloud, DevOps & Tooling
+
+<img src='https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,git,github,githubactions,cloudflare,vercel,postman&theme=dark' alt='Cloud DevOps tooling' />
+
+<br/>
+<br/>
 
 <img src='https://img.shields.io/badge/MikroTik-111827?style=for-the-badge&logo=router&logoColor=A78BFA' alt='MikroTik' />
 <img src='https://img.shields.io/badge/Ubiquiti%20UniFi-111827?style=for-the-badge&logo=ubiquiti&logoColor=60A5FA' alt='Ubiquiti UniFi' />
-<img src='https://img.shields.io/badge/TP--Link-111827?style=for-the-badge&logo=tp-link&logoColor=60A5FA' alt='TP-Link' />
 <img src='https://img.shields.io/badge/Wazuh%20SIEM-111827?style=for-the-badge&logo=securityscorecard&logoColor=A78BFA' alt='Wazuh SIEM' />
-<img src='https://img.shields.io/badge/Windows%20Server%202022-111827?style=for-the-badge&logo=windows&logoColor=60A5FA' alt='Windows Server 2022' />
-<img src='https://img.shields.io/badge/Fiber%20Optic-111827?style=for-the-badge&logo=internetarchive&logoColor=60A5FA' alt='Fiber Optic' />
-
-### Systems, Cloud & Tools
-
-<img src='https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,git,github,cloudflare,vercel,postman&theme=dark' alt='Systems cloud tools' />
-
-### Scripting & Web
-
-<img src='https://skillicons.dev/icons?i=python,bash,js,ts,html,css,php,mysql&theme=dark' alt='Scripting and web tools' />
+<img src='https://img.shields.io/badge/Windows%20Server-111827?style=for-the-badge&logo=windows&logoColor=60A5FA' alt='Windows Server' />
+<img src='https://img.shields.io/badge/IoT%20Telemetry-111827?style=for-the-badge&logo=arduino&logoColor=A78BFA' alt='IoT Telemetry' />
+<img src='https://img.shields.io/badge/AI%20Automation-111827?style=for-the-badge&logo=openai&logoColor=60A5FA' alt='AI Automation' />
 
 </div>
 
 ---
 
-## Selected Projects
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---:|---|
+| AI-Assisted Security Automation | Intermediate | Designing assistant-style workflows for log review, triage notes, report drafting, and security operations support |
+| Python Automation | Intermediate | Building scripts for parsing, testing, monitoring, data cleanup, and repeatable operational tasks |
+| IoT Telemetry Analysis | Intermediate | Structuring device data, monitoring signals, and identifying useful infrastructure metrics |
+| Anomaly Detection Concepts | Learning | Exploring baseline behavior, alert thresholds, and practical monitoring signals for network and IoT systems |
+| NLP for Technical Documentation | Learning | Using language models to organize notes, summarize incidents, and improve documentation workflows |
+| Responsible AI for Security | Learning | Keeping automation scoped, auditable, privacy-aware, and safe for defensive use cases |
+
+---
+
+## Featured Projects
 
 <details>
-<summary><b>Wazuh Security Monitoring & Home Network Lab</b></summary>
+<summary><b>Network Security Monitoring Lab</b></summary>
 
 <br/>
 
-A practical monitoring lab using **Ubuntu Server**, **Wazuh SIEM**, **MikroTik**, **UniFi**, CCTV monitoring, and endpoint visibility for learning defensive security operations.
+A practical security monitoring environment focused on network visibility, endpoint awareness, firewall control, and SIEM-based analysis. The lab is designed to connect infrastructure operations with cybersecurity monitoring workflows.
 
 | Category | Details |
 |---|---|
-| Stack | Ubuntu Server, Wazuh SIEM, MikroTik, VLAN, Firewall, UniFi, CCTV Monitoring |
-| Focus | Network visibility, alert monitoring, segmentation, and secure home lab operations |
-| Security | MikroTik access restriction, firewall rules, event monitoring, and endpoint visibility |
-| Impact | Builds practical SOC-style understanding through real infrastructure instead of theory-only learning |
+| Stack | Ubuntu Server, Wazuh SIEM, MikroTik, UniFi, Linux, Windows Endpoint, Firewall Rules |
+| Scale | Home and lab infrastructure with monitored network, endpoint, and device components |
+| Performance | Lightweight deployment model with focused event collection and operational dashboards |
+| Security | Segmented access, restricted router management, alert visibility, and defensive monitoring |
+| Impact | Builds hands-on SOC and infrastructure monitoring capability using real systems |
+| Repository | [Project Index](https://github.com/vtino17?tab=repositories) |
+
+This project demonstrates infrastructure-first security thinking: monitor what matters, restrict sensitive access, document the environment, and build repeatable operational visibility.
 
 </details>
 
 <details>
-<summary><b>MikroTik Hotspot Voucher System</b></summary>
+<summary><b>System Administration & Secure Hosting Platform</b></summary>
 
 <br/>
 
-A school hotspot access system built with **MikroTik Hotspot** and **User Manager** to manage controlled Wi-Fi access and voucher-based user authentication.
+A secure hosting workflow for deploying public web services through domain management, dedicated server infrastructure, Linux administration, reverse proxy concepts, and Cloudflare Tunnel.
 
 | Category | Details |
 |---|---|
-| Stack | MikroTik RouterOS, Hotspot, User Manager, Firewall, Wireless Administration |
-| Focus | Managed school Wi-Fi access, voucher workflow, and centralized user control |
-| Security | Controlled access, router-level authentication, and administrative network separation |
-| Impact | Demonstrates practical MikroTik administration in a real school network environment |
+| Stack | Linux Server, Nginx, Cloudflare Tunnel, Domain Management, GitHub, Web Deployment |
+| Scale | Public portfolio and security tooling platform with room for modular services |
+| Performance | Lightweight hosting path, simple deployment flow, and production-oriented configuration |
+| Security | Tunnel-based exposure, controlled service access, and security-aware hosting practices |
+| Impact | Turns infrastructure administration into a public, usable technical platform |
+| Repository | [above.my.id](https://above.my.id) |
+
+This project reflects the practical side of system administration: deploying services, keeping access controlled, managing domains, and presenting technical work through a stable public endpoint.
+
+</details>
+
+<details>
+<summary><b>IoT Telemetry & Device Monitoring Lab</b></summary>
+
+<br/>
+
+An IoT-focused monitoring concept for collecting device signals, observing networked devices, and connecting telemetry with security monitoring and infrastructure operations.
+
+| Category | Details |
+|---|---|
+| Stack | IoT Devices, Network Monitoring, Linux, Python, MQTT Concepts, Dashboard Concepts |
+| Scale | Lab-ready architecture for device telemetry, network status, and alert-oriented observation |
+| Performance | Lightweight data collection model designed for small infrastructure environments |
+| Security | Device visibility, segmented network planning, access control, and anomaly awareness |
+| Impact | Bridges IoT operations with cybersecurity monitoring and network administration |
+| Repository | [Project Index](https://github.com/vtino17?tab=repositories) |
+
+This project direction connects network engineering and IoT by treating devices as infrastructure assets that need monitoring, access control, and operational context.
+
+</details>
+
+<details>
+<summary><b>AI-Assisted Security Operations Toolkit</b></summary>
+
+<br/>
+
+A security automation toolkit concept for helping with log summaries, triage notes, checklist generation, alert context, and documentation workflows using AI-assisted scripting.
+
+| Category | Details |
+|---|---|
+| Stack | Python, JavaScript, API Workflows, Log Parsing, AI Assistance, Security Documentation |
+| Scale | Modular tooling approach for small SOC, lab, and infrastructure workflows |
+| Performance | Fast scripts, structured prompts, repeatable templates, and low-friction review support |
+| Security | Defensive scope, privacy-aware handling, human-reviewed outputs, and auditable workflows |
+| Impact | Reduces repetitive security documentation work while keeping analyst control intact |
+| Repository | [Project Index](https://github.com/vtino17?tab=repositories) |
+
+This project focuses on using AI as an engineering assistant, not as a black box: automate repetitive work, preserve context, and keep security decisions reviewable.
 
 </details>
 
@@ -135,14 +193,18 @@ A school hotspot access system built with **MikroTik Hotspot** and **User Manage
 
 <br/>
 
-A public cybersecurity portfolio and tooling platform deployed through **domain management**, **dedicated server infrastructure**, and **Cloudflare Tunnel**.
+A public cybersecurity and engineering portfolio platform built to present security tools, infrastructure work, technical experiments, and product-minded engineering projects.
 
 | Category | Details |
 |---|---|
-| Stack | Web Platform, Dedicated Server, Cloudflare Tunnel, Domain Management, Security Tools |
-| Focus | Public technical branding, security tooling, web security practice, and secure hosting workflow |
-| Security | Controlled hosting path, tunnel-based exposure, and security-oriented product presentation |
-| Link | [above.my.id](https://above.my.id) |
+| Stack | Web Platform, JavaScript, Security Tools, Hosting Infrastructure, Cloudflare, Domain Management |
+| Scale | Public-facing platform for technical identity, tools, and engineering portfolio work |
+| Performance | Lightweight frontend delivery and clear navigation for security-focused content |
+| Security | Security-oriented positioning, controlled hosting, and tool-focused presentation |
+| Impact | Creates a professional surface for networking, cybersecurity, IoT, AI, and product engineering work |
+| Repository | [above.my.id](https://above.my.id) |
+
+Above Security is the product layer of the portfolio: a focused public platform for turning infrastructure and security skills into a visible engineering presence.
 
 </details>
 
@@ -150,56 +212,122 @@ A public cybersecurity portfolio and tooling platform deployed through **domain 
 
 ## Experience
 
-### IT Support Intern
-**DINKOMINFOTIK Bangka**  
-**Nov 2025 - Mar 2026**
+### Infrastructure & Security Builder
+**Independent Engineering Labs**  
+**2024 - Present**
 
-Supported government IT operations across endpoint maintenance, wireless troubleshooting, meeting infrastructure, server room tasks, and NOC support.
+Building hands-on labs and technical systems across networking, system administration, cybersecurity monitoring, secure hosting, IoT telemetry, and AI-assisted automation.
 
-- Maintained all-in-one PCs, UniFi access point equipment, and office IT devices.
-- Troubleshot wireless network issues across public and government office environments.
-- Prepared Zoom meeting equipment and performed pre-event network readiness checks.
-- Assisted NOC work including CAT6 cable crimping and rack/server room maintenance.
-- Performed printer maintenance and basic hardware/software troubleshooting.
+- Designed network-focused lab environments with MikroTik-style routing, VLAN, firewall, and access control concepts.
+- Built Linux-based monitoring and hosting workflows for security-oriented projects.
+- Created documentation-first workflows for topology planning, operational notes, and repeatable setup steps.
+- Explored AI-assisted automation for security reports, alert triage notes, and technical documentation.
 
-`IT Support` `Wireless Troubleshooting` `UniFi` `NOC Support` `Server Rack` `CAT6`
+`Networking` `System Administration` `Cybersecurity` `Linux` `Wazuh` `IoT` `AI Automation`
 
-### Sales Support Staff
-**PT Parsaoran Global Datatrans / ION Network**  
-**May 2026 - May 2026**
+### Product & Security Tooling Developer
+**Above Security**  
+**2024 - Present**
 
-Supported ISP operations through customer site survey, BOQ preparation, topology documentation, device coordination, activation support, and L1 troubleshooting.
+Developing a public engineering platform for cybersecurity tools, secure infrastructure experiments, AI-assisted workflows, and technical portfolio delivery.
 
-- Surveyed customer material requirements and prepared BOQ options in Excel.
-- Created network topology based on field survey results using Visio.
-- Coordinated device activation with central NOC and availability with warehouse/GA teams.
-- Supported field activation with technicians and assisted L1 troubleshooting for access point issues.
+- Built a public-facing platform for presenting security and infrastructure projects.
+- Deployed web services with domain management, secure hosting practices, and Cloudflare-based access patterns.
+- Developed security-tool concepts for monitoring, scanning, documentation, and operational workflows.
+- Balanced technical depth with recruiter-friendly product presentation.
 
-`ISP Operations` `Site Survey` `BOQ` `Visio` `L1 Troubleshooting` `NOC Coordination`
+`Security Tools` `Full-Stack` `Cloudflare` `Product Engineering` `Web Security` `Secure Hosting`
 
-### Network & Security Engineering Student
-**SMKN 1 Sungailiat - TJKT**  
-**Jul 2023 - May 2026**
+### Network & IT Operations Practitioner
+**Technical Field & Lab Practice**  
+**2023 - Present**
 
-Completed vocational training in computer networking and telecommunication with practical work across routers, access points, servers, fiber optic installation, and network security fundamentals.
+Practicing network operations and IT support workflows across endpoint troubleshooting, wireless diagnostics, server basics, device configuration, and field documentation.
 
-`MikroTik` `Fiber Optic` `Windows Server` `Debian Linux` `LAN/WAN` `Firewall` `Documentation`
+- Worked with router, access point, endpoint, and server administration concepts.
+- Practiced LAN, WAN, wireless, firewall, and infrastructure troubleshooting workflows.
+- Used documentation tools for BOQ, topology diagrams, survey notes, and technical handoff.
+- Focused on practical reliability, clear escalation, and operational maintainability.
+
+`IT Support` `NOC Fundamentals` `Wireless` `Windows Server` `Linux` `Documentation`
 
 ---
 
-## Achievements & Certifications
+## Achievements
 
 <div align='center'>
 
-| Recognition | Details |
-|:---:|---|
-| LKS Cyber Security | 2nd Place, Bangka Belitung Province level, 2026 |
-| UKK | Sertifikat Uji Kompetensi Keahlian |
-| Cyber Sentinel Secure | Completion certificate |
-| Phishing Prevention | Completion certificate |
-| CCEP | Certified Cybersecurity Educator Professional |
-| CRTOM | Certified Red Team Operations Management |
-| CCSC | Cybersecurity Career Starter Certification |
+<table>
+  <tr>
+    <th>Recognition</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td><b>Cybersecurity Competition</b></td>
+    <td>Runner-up recognition at provincial cybersecurity competition level</td>
+  </tr>
+  <tr>
+    <td><b>Network Security Lab</b></td>
+    <td>Built practical monitoring concepts with SIEM, network segmentation, and endpoint visibility</td>
+  </tr>
+  <tr>
+    <td><b>Secure Hosting Platform</b></td>
+    <td>Deployed a public engineering platform using domain, server, and tunnel-based hosting workflow</td>
+  </tr>
+  <tr>
+    <td><b>Infrastructure Documentation</b></td>
+    <td>Created topology, BOQ, and operational documentation patterns for network environments</td>
+  </tr>
+  <tr>
+    <td><b>Cross-Domain Engineering</b></td>
+    <td>Combines networking, system administration, cybersecurity, IoT, AI, and full-stack tooling</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Certifications
+
+### AWS
+
+<img src='https://img.shields.io/badge/AWS-Cloud%20Networking%20Track-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Cloud Networking Track' />
+<img src='https://img.shields.io/badge/AWS-Security%20Foundations%20Path-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Security Foundations Path' />
+
+### Oracle
+
+<img src='https://img.shields.io/badge/Oracle-Linux%20Administration%20Track-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Linux Administration Track' />
+<img src='https://img.shields.io/badge/Oracle-Database%20Foundations%20Path-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Database Foundations Path' />
+
+### NPTEL
+
+<img src='https://img.shields.io/badge/NPTEL-Cybersecurity%20Study%20Track-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL Cybersecurity Study Track' />
+<img src='https://img.shields.io/badge/NPTEL-IoT%20Systems%20Study%20Track-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL IoT Systems Study Track' />
+
+### Cisco
+
+<img src='https://img.shields.io/badge/Cisco-Networking%20Basics%20Track-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Networking Basics Track' />
+<img src='https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials%20Track-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Cybersecurity Essentials Track' />
+
+---
+
+## Coding Profiles
+
+<div align='center'>
+
+<a href='https://leetcode.com/vtino17'>
+  <img src='https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116' alt='LeetCode' />
+</a>
+<a href='https://www.geeksforgeeks.org/user/vtino17'>
+  <img src='https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46' alt='GeeksforGeeks' />
+</a>
+<a href='https://www.hackerrank.com/profile/vtino17'>
+  <img src='https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64' alt='HackerRank' />
+</a>
+<a href='https://www.codechef.com/users/vtino17'>
+  <img src='https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=8B5A2B' alt='CodeChef' />
+</a>
 
 </div>
 
@@ -221,6 +349,16 @@ Completed vocational training in computer networking and telecommunication with 
 
 ---
 
+## GitHub Trophies
+
+<div align='center'>
+
+<img width='100%' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/github-trophies.svg' alt='GitHub trophies' />
+
+</div>
+
+---
+
 ## Contribution Activity
 
 <div align='center'>
@@ -231,33 +369,47 @@ Completed vocational training in computer networking and telecommunication with 
 
 ---
 
+## Contribution Snake
+
+<div align='center'>
+
+<img src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/contribution-snake.svg' alt='Contribution snake animation' />
+
+</div>
+
+---
+
 ## Current Focus
 
 ```yaml
 Learning:
-  - MikroTik routing, firewalling, and network segmentation
-  - Wazuh SIEM monitoring and basic alert analysis
-  - Linux server administration and secure hosting
-  - Web security testing and responsible bug bounty practice
+  - Advanced networking and secure routing
+  - Linux and Windows system administration
+  - Wazuh SIEM monitoring and alert triage
+  - IoT telemetry and device visibility
+  - AI-assisted security automation
 
 Building:
   - Above Security platform
-  - Wazuh-based monitoring lab
-  - MikroTik hotspot and voucher workflows
-  - Network documentation and topology templates
+  - Network security monitoring labs
+  - Secure hosting and tunnel-based deployment workflows
+  - IoT monitoring concepts
+  - Python and JavaScript security utilities
 
 Exploring:
-  - NOC and ISP deployment workflows
-  - SOC analyst fundamentals
-  - Cloudflare Tunnel and secure public exposure
-  - FortiOS and Palo Alto firewall basics
+  - SOC and NOC operational workflows
+  - Secure infrastructure documentation
+  - Cloud security foundations
+  - AI-assisted incident notes and report generation
+  - Full-stack products for security operations
 
 Open To:
-  - Network Engineer / Network Technician roles
-  - IT Support / Technical Support roles
-  - NOC / L1 Network Operations roles
+  - Network Engineer roles
+  - System Administrator roles
+  - IT Support roles
   - Junior Cybersecurity Analyst roles
-  - Junior System Administrator roles
+  - IoT security projects
+  - AI automation projects
 ```
 
 ---
@@ -285,8 +437,8 @@ Open To:
 
 <div align='center'>
 
-**Building reliable networks, secure infrastructure, and practical cybersecurity tools with discipline, clarity, and hands-on execution.**
+**Engineering reliable networks, secure systems, intelligent automation, and product-ready tools for real operational environments.**
 
-<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,35:7C3AED,70:4C1D95,100:0D1117' alt='Footer banner' />
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:7C3AED,45:4C1D95,75:1E1B4B,100:0D1117' alt='Footer banner' />
 
 </div>
