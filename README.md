@@ -314,12 +314,13 @@ Building a public cybersecurity platform focused on security tools, threat visua
 
 <div align='center'>
 
-<img height='175em' src='https://github-readme-stats.vercel.app/api?username=vtino17&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github' alt='GitHub stats' />
-<img height='175em' src='https://streak-stats.demolab.com?user=vtino17&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD' alt='GitHub streak' />
+<img height='190' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/github-stats.svg' alt='GitHub stats' />
+<img height='190' src='https://streak-stats.demolab.com?user=vtino17&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD' alt='GitHub streak' />
 
 <br/>
+<br/>
 
-<img height='205em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=vtino17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=10' alt='Top languages' />
+<img width='75%' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/top-languages.svg' alt='Top languages' />
 
 </div>
 
@@ -329,7 +330,7 @@ Building a public cybersecurity platform focused on security tools, threat visua
 
 <div align='center'>
 
-<img src='https://github-profile-trophy.vercel.app/?username=vtino17&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7' alt='GitHub trophies' />
+<img width='100%' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/github-trophies.svg' alt='GitHub trophies' />
 
 </div>
 
