@@ -343,7 +343,7 @@ Practicing network operations and IT support workflows across endpoint troublesh
 <br/>
 <br/>
 
-<img width='75%' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/top-languages.svg' alt='Top languages' />
+<img width='75%' src='https://raw.githubusercontent.com/vtino17/vtino17/e82f811e543cf1bede41fec69f95501ff616af42/assets/top-languages.svg' alt='Top languages' />
 
 </div>
 
