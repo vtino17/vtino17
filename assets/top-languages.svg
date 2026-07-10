@@ -19,7 +19,7 @@
   </defs>
   <rect width="495" height="280" rx="12" fill="url(#bg)"/>
   <rect x="18" y="18" width="459" height="244" rx="10" fill="#0B1020" stroke="#312E81" stroke-width="1" opacity=".86"/>
-  <text x="32" y="48" class="title">Top Languages & Stack</text>
+  <text x="32" y="48" class="title">Top Languages &amp; Stack</text>
   <text x="32" y="70" class="sub">focused stack for networking, systems, security, IoT, and AI tooling</text>
   <g transform="translate(32 98)">
     <text x="0" y="0" class="label">Python</text><text x="430" y="0" class="pct">Automation</text><rect x="0" y="12" width="430" height="9" rx="4.5" class="track"/><rect x="0" y="12" width="365" height="9" rx="4.5" fill="url(#bar1)"/>
