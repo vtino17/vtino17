@@ -5,9 +5,8 @@
   Stack%20Product%20Builder&descSize=18&descAlign=50&descAlignY=58" />
   <img src="https://readme-typing-svg.demolab.com?
   font=Inter&weight=700&size=28&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Enterpr
-  ise-Grade+Software+Engineering;AI%2FML+Systems+%26+Full-
-  Stack+Development;Scalable+Products%2C+Clean+Architecture%2C+Reliable+Delivery;Building+Modern+Engineering+Experien
-  ces" alt="Typing SVG" />
+  ise-Grade+Software+Engineering;AI%2FML+Systems+%26+Full-Stack+Development;Cybersecurity+Platforms+
+  %26+Secure+Product+Engineering;Scalable+Products%2C+Clean+Architecture%2C+Reliable+Delivery" alt="Typing SVG" />
   <br/>
   <img src="https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=flat-
   square&logo=academia&logoColor=white" />
@@ -45,20 +44,21 @@
 
   I am a software engineer focused on building reliable, scalable, and product-driven engineering systems. My work
   combines strong software engineering fundamentals with modern AI/ML development, full-stack product architecture,
-  cloud-native delivery, and security-conscious implementation.
+  cybersecurity tooling, cloud-native delivery, and security-conscious implementation.
 
   I care about clean architecture, maintainable codebases, fast developer workflows, measurable product impact, and
   engineering decisions that scale beyond prototypes. I build systems across frontend, backend, data, automation,
-  infrastructure, and intelligent product experiences.
+  infrastructure, AI, and secure product experiences.
 
-  My engineering interests sit at the intersection of applied AI, distributed systems, developer tools, product
-  platforms, and secure cloud applications.
+  My engineering interests sit at the intersection of applied AI, cybersecurity platforms, distributed systems,
+  developer tools, product engineering, and secure cloud applications.
 
   Open To
 
   - Software Engineering roles
   - AI/ML Engineering roles
   - Full-Stack Engineering roles
+  - Cybersecurity engineering opportunities
   - Product Engineering opportunities
   - Open-source collaboration
   - Research-driven applied AI projects
@@ -117,103 +117,132 @@
 
   ## Featured Projects
   <details>
-  <summary><b>AI Engineering Intelligence Platform</b></summary>
+  <summary><b>Above Security Platform</b></summary>
   <br/>
 
-  A production-oriented AI platform for transforming raw operational data into structured insights, intelligent
-  search experiences, and decision-support workflows. Built with a focus on clean architecture, reliable APIs,
-  modular AI services, and enterprise-ready extensibility.
+  A cybersecurity product platform focused on threat monitoring, security tooling, real-time analysis, and practical
+  defensive workflows. The system combines a polished web interface with modular security features designed for
+  accessibility, clarity, and operational utility.
 
    Category       Details
-  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Stack          Python, FastAPI, React, PostgreSQL, Redis, Docker, OpenAI API
-  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────
-   Scale          Modular service architecture designed for team-based product environments
-  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────
-   Performance    Async API design, indexed retrieval, cache-aware response handling
-  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────
-   Security       Environment-based secret management, API validation, structured access boundaries
-  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────
-   Impact         Accelerates insight discovery, improves decision quality, and reduces manual analysis effort
-  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────
-   Repository     View Repository (https://github.com/vtino17/ai-engineering-intelligence-platform)
+  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Stack          JavaScript, HTML, CSS, Web APIs, Security Tooling, Product UI
+  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────────
+   Scale          Multi-feature platform with security tools, product pages, and operational workflows
+  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────────
+   Performance    Lightweight frontend delivery, focused navigation, tool-oriented interaction patterns
+  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────────
+   Security       Security-first product domain, defensive tooling, safe user-facing workflows
+  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────────
+   Impact         Provides a public cybersecurity platform for monitoring, analysis, education, and tooling access
+  ─────────────  ──────────────────────────────────────────────────────────────────────────────────────────────────
+   Repository     Project Index (https://github.com/vtino17?tab=repositories)
 
-  This project demonstrates applied AI product engineering beyond simple model usage. It combines backend
-  reliability, intelligent retrieval, frontend usability, and production-minded deployment structure into a cohesive
-  platform.
+  Above Security demonstrates product engineering across frontend execution, cybersecurity concepts, tool
+  organization, and recruiter-visible delivery. The platform reflects a practical ability to convert technical
+  security ideas into usable product experiences.
   </details>
   <details>
-  <summary><b>Full-Stack SaaS Operations Dashboard</b></summary>
+  <summary><b>V AI Self-Learning System</b></summary>
   <br/>
 
-  A modern SaaS dashboard for monitoring business workflows, operational metrics, user activity, and product
-  performance. Designed for high-signal information density, fast navigation, role-aware views, and scalable
-  frontend/backend separation.
+  An AI system concept designed around memory, feedback, continuous learning, knowledge representation, and API-
+  driven interaction. The project emphasizes applied AI architecture with product-facing usability and backend-ready
+  system design.
 
    Category       Details
-  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Stack          Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────
-   Scale          Multi-module dashboard architecture with reusable product components
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────
-   Performance    Server-side rendering, optimized queries, stable layout systems
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────
-   Security       Authentication-ready architecture, validated API routes, secure configuration patterns
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────
-   Impact         Helps teams inspect operational state, track KPIs, and make faster product decisions
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────
-   Repository     View Repository (https://github.com/vtino17/saas-operations-dashboard)
+  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Stack          Python, FastAPI, PyTorch, PostgreSQL, Neo4j, Redis, API Architecture
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+   Scale          Modular AI architecture with memory, feedback, knowledge graph, and service layers
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+   Performance    API-driven inference design, background learning concepts, structured system health checks
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+   Security       Controlled API interfaces, isolated system components, recoverable knowledge workflows
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+   Impact         Connects AI research patterns with practical software product architecture
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+   Repository     Project Index (https://github.com/vtino17?tab=repositories)
 
-  This project highlights product engineering judgment: practical UX, maintainable state management, clean data
-  modeling, and a dashboard experience built for repeated professional use.
+  V AI highlights AI product engineering beyond basic chatbot interfaces. It presents a system-level view of memory,
+  learning loops, data persistence, and intelligent interaction design for future production AI applications.
   </details>
   <details>
-  <summary><b>Machine Learning Model Deployment Suite</b></summary>
+  <summary><b>Security Tools Suite</b></summary>
   <br/>
 
-  An end-to-end ML deployment system for packaging trained models behind reliable APIs, validating predictions,
-  monitoring inference behavior, and preparing models for production use cases.
+  A professional cybersecurity tools suite covering packet capture, network flow analysis, intrusion detection,
+  static malware analysis, cryptographic utilities, forensics acquisition, firewall concepts, and password auditing
+  workflows.
 
    Category       Details
-  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Stack          Python, scikit-learn, FastAPI, Docker, PostgreSQL, GitHub Actions
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────
-   Scale          Reusable ML service template for multiple model families
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────
-   Performance    Lightweight inference service, request validation, optimized serialization
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────
-   Security       Input constraints, isolated runtime configuration, dependency-aware deployment
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────
-   Impact         Reduces friction between experimentation and deployable AI applications
-  ─────────────  ────────────────────────────────────────────────────────────────────────────────
-   Repository     View Repository (https://github.com/vtino17/ml-model-deployment-suite)
+  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Stack          C, C++, Python, Rust, libpcap, YARA, Cryptography, Network Security
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Scale          Multi-tool architecture spanning network, malware, crypto, forensic, and defensive security
+                  domains
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Performance    Systems-level tooling model with C/C++ performance paths and Python automation layers
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Security       Defensive security utilities, analysis workflows, cryptographic operations, audit-oriented design
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Impact         Consolidates practical cybersecurity tooling into a structured engineering platform
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Repository     Project Index (https://github.com/vtino17?tab=repositories)
 
-  This project focuses on the engineering layer around machine learning: reliability, reproducibility,
-  maintainability, and making models usable inside real software systems.
+  The Security Tools Suite reflects systems thinking, cybersecurity depth, and an ability to organize complex
+  technical capabilities into coherent engineering products. It is designed for practical security analysis,
+  learning, and operational support.
   </details>
   <details>
-  <summary><b>Cloud-Native API Platform</b></summary>
+  <summary><b>Live Threat Intelligence Simulation</b></summary>
   <br/>
 
-  A scalable API platform built around maintainable service boundaries, database-backed workflows, automated testing,
-  observability foundations, and deployment-ready infrastructure conventions.
+  A simulated cyber threat intelligence experience designed to visualize attack vectors, active events, threat
+  levels, mitigation signals, and security telemetry concepts through a real-time interface.
 
    Category       Details
-  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Stack          Node.js, Express, PostgreSQL, Redis, Docker, Nginx, GitHub Actions
-  ─────────────  ───────────────────────────────────────────────────────────────────────────────
-   Scale          Service-oriented backend foundation for extensible product systems
-  ─────────────  ───────────────────────────────────────────────────────────────────────────────
-   Performance    Caching strategy, optimized database access, stateless API design
-  ─────────────  ───────────────────────────────────────────────────────────────────────────────
-   Security       JWT-ready patterns, request validation, secure headers, environment isolation
-  ─────────────  ───────────────────────────────────────────────────────────────────────────────
-   Impact         Provides a stable foundation for shipping backend products quickly and safely
-  ─────────────  ───────────────────────────────────────────────────────────────────────────────
-   Repository     View Repository (https://github.com/vtino17/cloud-native-api-platform)
+  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Stack          JavaScript, Data Visualization, Web UI, Cyber Threat Modeling, Simulation Logic
+  ─────────────  ─────────────────────────────────────────────────────────────────────────────────────
+   Scale          Real-time simulation interface with multiple threat categories and telemetry panels
+  ─────────────  ─────────────────────────────────────────────────────────────────────────────────────
+   Performance    Lightweight browser-rendered visual analytics with dynamic event presentation
+  ─────────────  ─────────────────────────────────────────────────────────────────────────────────────
+   Security       Simulation-only threat visualization with clear separation from real attack traffic
+  ─────────────  ─────────────────────────────────────────────────────────────────────────────────────
+   Impact         Makes cyber threat intelligence concepts more visual, interactive, and accessible
+  ─────────────  ─────────────────────────────────────────────────────────────────────────────────────
+   Repository     Project Index (https://github.com/vtino17?tab=repositories)
 
-  This project represents backend engineering fundamentals: clean interfaces, predictable behavior, operational
-  readiness, and code organization that supports long-term evolution.
+  This project shows product-minded security engineering: transforming abstract threat intelligence concepts into an
+  interface that is readable, interactive, and useful for demonstrating security awareness.
+  </details>
+  <details>
+  <summary><b>Above File Obfuscator</b></summary>
+  <br/>
+
+  A file and code protection interface designed around source-code obfuscation, supported file-type handling, anti-
+  debug options, string encryption concepts, and secure delivery of protected output.
+
+   Category       Details
+  ━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Stack          JavaScript, Web APIs, File Handling, Security UX, Code Protection Concepts
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Scale          Supports multiple file categories including scripts, binaries, documents, archives, and source
+                  formats
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Performance    Client-oriented workflow with clear upload, processing, and result states
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Security       Obfuscation-oriented workflow, anti-debug controls, tamper-resistance concepts
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Impact         Provides an accessible interface for understanding software protection and code hardening
+                  workflows
+  ─────────────  ────────────────────────────────────────────────────────────────────────────────────────────────────
+   Repository     Project Index (https://github.com/vtino17?tab=repositories)
+
+  The obfuscator project demonstrates practical security product design, combining technical protection concepts with
+  a clean workflow that a user can understand and operate without unnecessary friction.
   </details>
 
   ———
@@ -225,52 +254,84 @@
   Independent Engineering & Product Development
   2024 - Present
 
-  Building full-stack applications, AI-enabled systems, automation tools, and cloud-ready software products with a
-  strong emphasis on maintainability, reliability, and user value.
+  Building full-stack applications, AI-enabled systems, cybersecurity tools, automation workflows, and cloud-ready
+  software products with a strong emphasis on maintainability, reliability, and user value.
 
-  - Designed and implemented frontend interfaces using modern component-based frameworks.
-  - Built backend APIs with structured validation, database integration, and service-oriented architecture.
+  - Designed and implemented frontend interfaces using modern component-based and responsive web patterns.
+  - Built backend-ready architectures with structured validation, database integration, and service-oriented
+    thinking.
+
   - Developed AI/ML workflows for classification, retrieval, automation, and intelligent product features.
-  - Implemented deployment-ready project structures using Docker, CI workflows, and environment-based configuration.
+  - Created cybersecurity-focused tools and interfaces for monitoring, analysis, obfuscation, and threat simulation.
+  - Implemented deployment-ready project structures using GitHub, CI workflows, environment-based configuration, and
+    modern hosting.
+
   - Improved product usability through practical UX decisions, responsive layouts, and performance-aware
     implementation.
 
-  Software Engineering AI/ML Full-Stack Development Product Engineering Cloud DevOps
+  Software Engineering AI/ML Full-Stack Development Cybersecurity Product Engineering Cloud DevOps
 
   ### AI / ML Engineer
 
   Applied AI Projects & Research-Based Development
   2023 - Present
 
-  Developing machine learning solutions with emphasis on practical deployment, measurable performance, data quality,
-  and integration into real software systems.
+  Developing machine learning and intelligent software systems with emphasis on practical deployment, measurable
+  performance, data quality, and integration into real product workflows.
 
   - Built supervised learning pipelines for structured prediction tasks.
-  - Experimented with NLP workflows using embeddings, semantic similarity, and retrieval systems.
-  - Evaluated models using appropriate metrics, error analysis, and reproducible experiment practices.
-  - Integrated AI services into backend APIs and full-stack product workflows.
+  - Experimented with NLP workflows using embeddings, semantic similarity, retrieval systems, and LLM application
+    patterns.
 
-  Machine Learning Deep Learning NLP MLOps Python FastAPI
+  - Evaluated models using appropriate metrics, error analysis, and reproducible experiment practices.
+  - Designed AI system architecture with memory, feedback loops, knowledge representation, and API-driven
+    interaction.
+
+  - Integrated AI services into backend APIs, security tooling concepts, and full-stack product workflows.
+
+  Machine Learning Deep Learning NLP MLOps Python FastAPI AI Systems
+
+  ### Cybersecurity Product Builder
+
+  Above Security
+  2024 - Present
+
+  Building a public cybersecurity platform focused on security tools, threat visualization, network utilities, AI-
+  assisted security concepts, and practical defensive engineering workflows.
+
+  - Developed public-facing security product pages and tool interfaces.
+  - Designed cybersecurity workflows for network monitoring, hash generation, file encryption, scanning, obfuscation,
+    and network utilities.
+
+  - Built interactive threat simulation experiences for security awareness and visual intelligence.
+  - Organized security features into a polished platform with recruiter-friendly product presentation.
+  - Applied software engineering discipline to security-focused product delivery.
+
+  Cybersecurity Security Tools Threat Intelligence Network Security Secure Product Design
 
   ———
 
   ## Achievements
   <div align="center">
 
-   Recognition                 Details
-  ━━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Engineering Portfolio       Built a multi-domain software engineering portfolio across AI, backend, frontend,
-                               cloud, and product systems
-  ──────────────────────────  ───────────────────────────────────────────────────────────────────────────────────────
-   AI Product Development      Delivered applied AI workflows integrated into usable software experiences
-  ──────────────────────────  ───────────────────────────────────────────────────────────────────────────────────────
-   Full-Stack Execution        Developed complete applications from database schema to production-ready interface
-  ──────────────────────────  ───────────────────────────────────────────────────────────────────────────────────────
-   Open Source Contribution    Active GitHub-based engineering presence with public repositories and reusable
-                               project patterns
-  ──────────────────────────  ───────────────────────────────────────────────────────────────────────────────────────
-   Continuous Learning         Strong focus on certifications, modern tools, software architecture, and applied
-                               engineering depth
+         Recognition          Details
+  ━━━━━━━━━━━━━━━━━━━━━━━━━  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    Engineering Portfolio     Built a multi-domain software engineering portfolio across AI, backend, frontend,
+                              cybersecurity, cloud, and product systems
+  ─────────────────────────  ────────────────────────────────────────────────────────────────────────────────────────
+   Above Security Platform    Developed a public cybersecurity product presence with tools, AI concepts, and threat
+                              intelligence experiences
+  ─────────────────────────  ────────────────────────────────────────────────────────────────────────────────────────
+   AI Product Development     Delivered applied AI workflows and system concepts integrated into usable software
+                              experiences
+  ─────────────────────────  ────────────────────────────────────────────────────────────────────────────────────────
+    Full-Stack Execution      Developed complete product interfaces from architecture planning to public deployment
+  ─────────────────────────  ────────────────────────────────────────────────────────────────────────────────────────
+    Open Source Presence      Established a GitHub-based engineering identity with profile branding, public
+                              portfolio links, and reusable project positioning
+  ─────────────────────────  ────────────────────────────────────────────────────────────────────────────────────────
+     Continuous Learning      Strong focus on certifications, modern tools, software architecture, applied
+                              engineering depth, and secure systems
   </div>
 
   ———
@@ -327,7 +388,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?
   username=vtino17&show_icons=true&theme=midnight-
   purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=vtino17&theme=midnight-
+  <img height="180em" src="https://streak-stats.demolab.com?user=vtino17&theme=midnight-
   purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" />
   <br/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?
@@ -369,9 +430,12 @@
     - Applied AI engineering
     - Cloud-native systems
     - Production-grade ML workflows
+    - Cybersecurity engineering
 
   Building:
+    - Above Security platform
     - AI-powered developer tools
+    - Cybersecurity tools and simulations
     - Full-stack SaaS applications
     - Scalable backend platforms
     - Recruiter-ready engineering portfolio projects
@@ -379,22 +443,22 @@
   Exploring:
     - LLM application design
     - Retrieval augmented generation
-    - Distributed systems
+    - Threat intelligence platforms
     - Secure product engineering
+    - Distributed systems
 
   Open To:
     - Software Engineer roles
     - AI Engineer roles
     - Full-Stack Engineer roles
+    - Cybersecurity Engineer roles
     - Open-source collaboration
     - Technical research projects
 
-  ---
+  ———
 
   ## Connect
-
   <div align="center">
-
   <a href="mailto:vsvalentinosaputra.98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=F472B6" />
   </a>
@@ -403,19 +467,5 @@
   </a>
   <a href="https://github.com/vtino17">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-  </a>
-  <a href="https://above.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
-  </a>
-
-  </div>
-
-  ---
-
-  <div align="center">
-
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?
   type=waving&height=150&section=footer&color=0:312E81,35:7C3AED,70:4C1D95,100:1E1B4B" />
-
   </div>
