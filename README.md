@@ -1,14 +1,14 @@
 <div align='center'>
 
-<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,25:1E1B4B,55:4C1D95,80:7C3AED,100:312E81&text=Vtino%2017&fontSize=54&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Cybersecurity%20Product%20Builder&descSize=16&descAlign=50&descAlignY=58' alt='Header banner' />
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,25:1E1B4B,55:4C1D95,80:7C3AED,100:312E81&text=Valentino%20Saputra&fontSize=50&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&animation=fadeIn&desc=Network%20Engineer%20%7C%20Cybersecurity%20%7C%20IT%20Support%20%7C%20Product%20Builder&descSize=16&descAlign=50&descAlignY=58' alt='Header banner' />
 
-<img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Enterprise-Grade+Software+Engineering;AI%2FML+Systems+and+Full-Stack+Development;Cybersecurity+Platforms+and+Secure+Product+Engineering;Clean+Architecture+Reliable+Delivery+Product+Impact' alt='Typing SVG' />
+<img src='https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Network+Engineering+and+Cybersecurity;MikroTik+Ubiquiti+Wazuh+SIEM+Fiber+Optic;IT+Support+Infrastructure+and+Secure+Operations;Building+Above+Security+and+Practical+Security+Tools' alt='Typing SVG' />
 
 <br/>
 
-<img src='https://img.shields.io/badge/Computer%20Science-Engineering-7C3AED?style=flat-square&logo=readthedocs&logoColor=white' alt='Computer Science badge' />
-<img src='https://img.shields.io/badge/AI%20%2F%20ML-Specialization-6366F1?style=flat-square&logo=tensorflow&logoColor=white' alt='AI ML badge' />
-<img src='https://img.shields.io/badge/Full--Stack-Product%20Engineering-8B5CF6?style=flat-square&logo=vercel&logoColor=white' alt='Full stack badge' />
+<img src='https://img.shields.io/badge/SMK%20TJKT-Network%20%26%20Telecommunication-7C3AED?style=flat-square&logo=readthedocs&logoColor=white' alt='TJKT badge' />
+<img src='https://img.shields.io/badge/LKS%20Cyber%20Security-Runner--Up%202026-6366F1?style=flat-square&logo=hackthebox&logoColor=white' alt='LKS Cyber Security badge' />
+<img src='https://img.shields.io/badge/Network%20%26%20Security-Engineering-8B5CF6?style=flat-square&logo=linux&logoColor=white' alt='Network security badge' />
 <img src='https://img.shields.io/badge/Location-Indonesia-4F46E5?style=flat-square&logo=googlemaps&logoColor=white' alt='Location badge' />
 
 <br/>
@@ -40,21 +40,21 @@
 
 ## About
 
-I am a software engineer focused on building reliable, scalable, and product-driven engineering systems. My work combines software engineering fundamentals with AI/ML development, full-stack product architecture, cybersecurity tooling, cloud-native delivery, and security-conscious implementation.
+I am a fresh graduate from SMKN 1 Sungailiat majoring in Computer Network and Telecommunication Engineering, with hands-on experience in networking, IT support, cybersecurity, and infrastructure operations. My practical background includes MikroTik routing, VLAN design, firewall configuration, Ubiquiti UniFi maintenance, fiber optic installation, wireless troubleshooting, Windows Server, Linux administration, and Wazuh SIEM monitoring.
 
-I care about clean architecture, maintainable codebases, fast developer workflows, measurable product impact, and engineering decisions that scale beyond prototypes. I build systems across frontend, backend, data, automation, infrastructure, AI, and secure product experiences.
+I have worked in government and ISP environments through DINKOMINFOTIK Bangka and PT Parsaoran Global Datatrans / ION Network, handling field troubleshooting, network support, BOQ documentation, device activation coordination, server rack maintenance, and customer site survey workflows.
 
-My engineering interests sit at the intersection of applied AI, cybersecurity platforms, distributed systems, developer tools, product engineering, and secure cloud applications.
+I build security-oriented products and practical tools through Above Security, combining network engineering, defensive security, web security testing, hosting infrastructure, and clean product presentation.
 
 **Open To**
 
-- Software Engineering roles
-- AI/ML Engineering roles
-- Full-Stack Engineering roles
-- Cybersecurity engineering opportunities
-- Product Engineering opportunities
-- Open-source collaboration
-- Research-driven applied AI projects
+- Network Engineer roles
+- IT Support / Technical Support roles
+- Cybersecurity Analyst / SOC entry-level roles
+- NOC / Network Operations opportunities
+- Junior System Administrator roles
+- Full-stack and security tooling projects
+- Open-source cybersecurity collaboration
 
 ---
 
@@ -64,21 +64,47 @@ My engineering interests sit at the intersection of applied AI, cybersecurity pl
 
 ### Languages
 
-<img src='https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,php,bash&theme=dark' alt='Languages' />
+<img src='https://skillicons.dev/icons?i=python,js,ts,php,bash,c,cpp,java&theme=dark' alt='Languages' />
 
 ### Frontend
 
-<img src='https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,figma&theme=dark' alt='Frontend tools' />
+<img src='https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma&theme=dark' alt='Frontend tools' />
 
 ### Backend & Databases
 
-<img src='https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,laravel,mysql,postgres,mongodb,redis,prisma&theme=dark' alt='Backend and database tools' />
+<img src='https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,laravel,mysql,postgres,mongodb,redis&theme=dark' alt='Backend and database tools' />
 
 ### Cloud, DevOps & Tooling
 
-<img src='https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,git,github,githubactions,vercel,postman&theme=dark' alt='Cloud DevOps tools' />
+<img src='https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,nginx,git,github,githubactions,vercel,cloudflare,postman&theme=dark' alt='Cloud DevOps tools' />
+
+### Networking, Security & Infrastructure
+
+<img src='https://img.shields.io/badge/MikroTik-111827?style=for-the-badge&logo=router&logoColor=A78BFA' alt='MikroTik' />
+<img src='https://img.shields.io/badge/Ubiquiti%20UniFi-111827?style=for-the-badge&logo=ubiquiti&logoColor=60A5FA' alt='Ubiquiti UniFi' />
+<img src='https://img.shields.io/badge/TP--Link-111827?style=for-the-badge&logo=tp-link&logoColor=60A5FA' alt='TP-Link' />
+<img src='https://img.shields.io/badge/Wazuh%20SIEM-111827?style=for-the-badge&logo=securityscorecard&logoColor=A78BFA' alt='Wazuh SIEM' />
+<img src='https://img.shields.io/badge/Windows%20Server%202022-111827?style=for-the-badge&logo=windows&logoColor=60A5FA' alt='Windows Server 2022' />
+<img src='https://img.shields.io/badge/VMware-111827?style=for-the-badge&logo=vmware&logoColor=A78BFA' alt='VMware' />
+<img src='https://img.shields.io/badge/Fiber%20Optic-111827?style=for-the-badge&logo=internetarchive&logoColor=60A5FA' alt='Fiber Optic' />
+<img src='https://img.shields.io/badge/Visio%20%26%20BOQ-111827?style=for-the-badge&logo=microsoft&logoColor=A78BFA' alt='Visio and BOQ' />
 
 </div>
+
+---
+
+## Network & Cybersecurity Expertise
+
+| Domain | Proficiency | Details |
+|---|---:|---|
+| MikroTik Networking | Advanced | OSPF, VLAN, User Manager, Hotspot, firewall rules, load balancing, static routing, and access control |
+| Wireless & LAN Support | Advanced | Ubiquiti UniFi, TP-Link, wireless troubleshooting, LAN/WAN support, access point maintenance, and field diagnostics |
+| Fiber Optic | Intermediate | Splicing, dropcore, pigtail, patchcord, ODP handling, cable pulling, and physical network installation |
+| System Administration | Intermediate | Windows Server 2022, Ubuntu Server, Debian Linux, VMware, Docker, and server maintenance workflows |
+| SIEM & Monitoring | Intermediate | Wazuh SIEM deployment, security event monitoring, CCTV/home network monitoring, and endpoint visibility |
+| Firewall & Network Security | Intermediate | MikroTik firewall, FortiOS basic, Palo Alto basic, segmentation, and defensive network hardening |
+| Web Security Testing | Intermediate | Web security testing, bug bounty learning through HackerOne and Bugcrowd, and automation for testing workflows |
+| Documentation & Survey | Advanced | BOQ, Excel, Visio topology design, Google Earth, KMZ mapping, and customer site survey documentation |
 
 ---
 
@@ -86,116 +112,113 @@ My engineering interests sit at the intersection of applied AI, cybersecurity pl
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| Machine Learning Engineering | Advanced | Model development, evaluation, feature engineering, supervised learning, and experimentation workflows |
-| Deep Learning | Advanced | Neural networks, CNNs, sequence models, embeddings, transfer learning, and optimization |
-| Natural Language Processing | Advanced | Text classification, semantic search, embeddings, retrieval pipelines, and LLM application patterns |
-| Computer Vision | Intermediate | Image classification, object detection workflows, preprocessing, and model evaluation |
-| MLOps | Intermediate | Model packaging, reproducible experiments, deployment pipelines, and monitoring foundations |
-| Data Engineering | Intermediate | ETL workflows, data validation, SQL analytics, and API-based data ingestion |
-| AI Product Engineering | Advanced | Translating AI capabilities into usable products with reliability-first delivery |
-| Responsible AI | Intermediate | Bias awareness, evaluation design, privacy-conscious handling, and safety-oriented implementation |
+| AI-Assisted Security Tooling | Intermediate | Using AI concepts to support security analysis workflows, automation, and product features |
+| Data Automation | Intermediate | Structuring logs, reports, and operational data for clearer security and infrastructure decisions |
+| LLM Application Design | Learning | Exploring prompt-driven tools, retrieval patterns, and assistant-style security workflows |
+| Python for Security | Intermediate | Scripting for automation, testing, parsing, and network/security utility development |
+| Responsible AI | Learning | Privacy-aware implementation, safe tool design, and careful handling of security-related outputs |
 
 ---
 
 ## Featured Projects
 
 <details>
+<summary><b>Wazuh Security Monitoring & Home Network Lab</b></summary>
+
+<br/>
+
+A practical security monitoring lab built on Ubuntu Server and Wazuh for attack analysis, CCTV monitoring, home network visibility, and endpoint monitoring. The network includes MikroTik-based VLANs, static routing, guest Wi-Fi, firewall rules, UniFi monitoring, and laptop endpoint visibility.
+
+| Category | Details |
+|---|---|
+| Stack | Ubuntu Server, Wazuh SIEM, MikroTik, VLAN, Static Routing, Firewall, UniFi, CCTV Monitoring |
+| Scale | Home security lab with multiple monitored network and endpoint components |
+| Performance | Lightweight SIEM deployment, segmented network design, and continuous monitoring workflow |
+| Security | Firewall blocking to MikroTik access, network segmentation, SIEM event collection, and defensive visibility |
+| Impact | Provides hands-on SOC-style practice for monitoring, alert analysis, and secure network operations |
+| Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
+
+This project reflects practical network security engineering: designing infrastructure, segmenting access, deploying monitoring, and learning incident visibility through real systems instead of theory-only practice.
+
+</details>
+
+<details>
+<summary><b>MikroTik Hotspot Voucher System</b></summary>
+
+<br/>
+
+A school hotspot voucher system built using MikroTik Hotspot and User Manager to support controlled Wi-Fi access, user management, and practical network administration in an education environment.
+
+| Category | Details |
+|---|---|
+| Stack | MikroTik RouterOS, Hotspot, User Manager, Firewall, Wireless Network Administration |
+| Scale | School-area access model for managed public Wi-Fi usage |
+| Performance | Router-level authentication and centralized voucher management |
+| Security | Controlled user access, firewall-aware configuration, and administrative separation |
+| Impact | Improves school network access management and demonstrates applied MikroTik operations |
+| Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
+
+This project shows applied networking skill in a real environment, including user access control, router configuration, hotspot planning, and operational administration.
+
+</details>
+
+<details>
 <summary><b>Above Security Platform</b></summary>
 
 <br/>
 
-A cybersecurity product platform focused on threat monitoring, security tooling, real-time analysis, and practical defensive workflows. The system combines a polished web interface with modular security features designed for accessibility, clarity, and operational utility.
+A cybersecurity product platform focused on security tools, web security workflows, infrastructure deployment, and practical defensive engineering. The platform is deployed using a domain, dedicated server, and Cloudflare Tunnel.
 
 | Category | Details |
 |---|---|
-| Stack | JavaScript, HTML, CSS, Web APIs, Security Tooling, Product UI |
-| Scale | Multi-feature platform with security tools, product pages, and operational workflows |
-| Performance | Lightweight frontend delivery, focused navigation, and tool-oriented interaction patterns |
-| Security | Security-first product domain, defensive tooling, and safe user-facing workflows |
-| Impact | Provides a public cybersecurity platform for monitoring, analysis, education, and tooling access |
-| Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
+| Stack | Web Platform, Domain Management, Dedicated Server, Cloudflare Tunnel, Security Tooling |
+| Scale | Public cybersecurity portfolio and tooling platform |
+| Performance | Lightweight deployment model with tunnel-based exposure and fast public access |
+| Security | Security-first product domain, controlled hosting path, and practical defensive tooling |
+| Impact | Presents cybersecurity projects, tools, and technical capability through a public product experience |
+| Repository | [Portfolio](https://above.my.id) |
 
-Above Security demonstrates product engineering across frontend execution, cybersecurity concepts, tool organization, and recruiter-visible delivery. The platform reflects a practical ability to convert technical security ideas into usable product experiences.
+Above Security combines hosting infrastructure, product design, security tooling, and public technical branding into one practical platform.
 
 </details>
 
 <details>
-<summary><b>V AI Self-Learning System</b></summary>
+<summary><b>Network Survey & BOQ Workflow</b></summary>
 
 <br/>
 
-An AI system concept designed around memory, feedback, continuous learning, knowledge representation, and API-driven interaction. The project emphasizes applied AI architecture with product-facing usability and backend-ready system design.
+A field workflow for customer network survey, topology planning, device availability coordination, bandwidth subscription options, and Bill of Quantity documentation using Excel and Visio.
 
 | Category | Details |
 |---|---|
-| Stack | Python, FastAPI, PyTorch, PostgreSQL, Neo4j, Redis, API Architecture |
-| Scale | Modular AI architecture with memory, feedback, knowledge graph, and service layers |
-| Performance | API-driven inference design, background learning concepts, and structured system health checks |
-| Security | Controlled API interfaces, isolated system components, and recoverable knowledge workflows |
-| Impact | Connects AI research patterns with practical software product architecture |
+| Stack | Excel, Visio, BOQ, Site Survey, Network Topology, ISP Coordination |
+| Scale | Customer site planning for clinic and enterprise connectivity scenarios |
+| Performance | Clear material planning, subscription comparison, and structured activation coordination |
+| Security | Network planning with device placement, access point review, and operational handoff awareness |
+| Impact | Supports ISP deployment readiness and improves communication between field, NOC, warehouse, and customer teams |
 | Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
 
-V AI highlights AI product engineering beyond basic chatbot interfaces. It presents a system-level view of memory, learning loops, data persistence, and intelligent interaction design for future production AI applications.
+This project represents the operational side of network engineering: field survey, documentation, topology design, device planning, and coordination required before reliable deployment.
 
 </details>
 
 <details>
-<summary><b>Security Tools Suite</b></summary>
+<summary><b>Web Security Testing & Automation Tools</b></summary>
 
 <br/>
 
-A professional cybersecurity tools suite covering packet capture, network flow analysis, intrusion detection, static malware analysis, cryptographic utilities, forensics acquisition, firewall concepts, and password auditing workflows.
+A collection of simple tools and workflows developed for web penetration testing practice, security automation, and repeatable testing tasks across common web security scenarios.
 
 | Category | Details |
 |---|---|
-| Stack | C, C++, Python, Rust, libpcap, YARA, Cryptography, Network Security |
-| Scale | Multi-tool architecture spanning network, malware, crypto, forensic, and defensive security domains |
-| Performance | Systems-level tooling model with C/C++ performance paths and Python automation layers |
-| Security | Defensive security utilities, analysis workflows, cryptographic operations, and audit-oriented design |
-| Impact | Consolidates practical cybersecurity tooling into a structured engineering platform |
+| Stack | Python, JavaScript, Web Security Testing, Automation Scripts, Bug Bounty Practice |
+| Scale | Lightweight utility model for personal security testing and learning workflows |
+| Performance | Focused scripts for repeatable checks, faster analysis, and practical testing support |
+| Security | Defensive learning, responsible testing, and structured web security practice |
+| Impact | Strengthens hands-on cybersecurity capability and supports continuous skill development |
 | Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
 
-The Security Tools Suite reflects systems thinking, cybersecurity depth, and an ability to organize complex technical capabilities into coherent engineering products. It is designed for practical security analysis, learning, and operational support.
-
-</details>
-
-<details>
-<summary><b>Live Threat Intelligence Simulation</b></summary>
-
-<br/>
-
-A simulated cyber threat intelligence experience designed to visualize attack vectors, active events, threat levels, mitigation signals, and security telemetry concepts through a real-time interface.
-
-| Category | Details |
-|---|---|
-| Stack | JavaScript, Data Visualization, Web UI, Cyber Threat Modeling, Simulation Logic |
-| Scale | Real-time simulation interface with multiple threat categories and telemetry panels |
-| Performance | Lightweight browser-rendered visual analytics with dynamic event presentation |
-| Security | Simulation-only threat visualization with clear separation from real attack traffic |
-| Impact | Makes cyber threat intelligence concepts more visual, interactive, and accessible |
-| Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
-
-This project shows product-minded security engineering: transforming abstract threat intelligence concepts into an interface that is readable, interactive, and useful for demonstrating security awareness.
-
-</details>
-
-<details>
-<summary><b>Above File Obfuscator</b></summary>
-
-<br/>
-
-A file and code protection interface designed around source-code obfuscation, supported file-type handling, anti-debug options, string encryption concepts, and secure delivery of protected output.
-
-| Category | Details |
-|---|---|
-| Stack | JavaScript, Web APIs, File Handling, Security UX, Code Protection Concepts |
-| Scale | Supports multiple file categories including scripts, binaries, documents, archives, and source formats |
-| Performance | Client-oriented workflow with clear upload, processing, and result states |
-| Security | Obfuscation-oriented workflow, anti-debug controls, and tamper-resistance concepts |
-| Impact | Provides an accessible interface for understanding software protection and code hardening workflows |
-| Repository | [Available Repositories](https://github.com/vtino17?tab=repositories) |
-
-The obfuscator project demonstrates practical security product design, combining technical protection concepts with a clean workflow that a user can understand and operate without unnecessary friction.
+This project supports the transition from theory to practice by turning repeated web security tasks into simple, reusable tooling.
 
 </details>
 
@@ -203,34 +226,36 @@ The obfuscator project demonstrates practical security product design, combining
 
 ## Experience
 
-### Software Engineer
-**Independent Engineering & Product Development**  
-**2024 - Present**
+### IT Support Intern
+**DINKOMINFOTIK Bangka**  
+**Nov 2025 - Mar 2026**
 
-Building full-stack applications, AI-enabled systems, cybersecurity tools, automation workflows, and cloud-ready software products with a strong emphasis on maintainability, reliability, and user value.
+Supported government IT operations across endpoint maintenance, wireless troubleshooting, video conference readiness, rack server maintenance, and NOC support tasks.
 
-- Designed and implemented frontend interfaces using modern component-based and responsive web patterns.
-- Built backend-ready architectures with structured validation, database integration, and service-oriented thinking.
-- Developed AI/ML workflows for classification, retrieval, automation, and intelligent product features.
-- Created cybersecurity-focused tools and interfaces for monitoring, analysis, obfuscation, and threat simulation.
-- Implemented deployment-ready project structures using GitHub, CI workflows, environment-based configuration, and modern hosting.
-- Improved product usability through practical UX decisions, responsive layouts, and performance-aware implementation.
+- Maintained 3 all-in-one PCs, 1 UniFi access point, and additional access point equipment.
+- Troubleshot wireless network issues at Hutan Kota, Taman Kota, BPPKAD office, and government office environments.
+- Prepared Zoom meeting equipment including webcam, speaker, microphone, TV, and pre-event network checking at the Regent Office.
+- Cleaned and organized server rack equipment.
+- Assisted NOC work including CAT6 cable crimping.
+- Performed printer maintenance, including encoder strip cleaning to resolve shadowed print output.
 
-`Software Engineering` `AI/ML` `Full-Stack Development` `Cybersecurity` `Product Engineering` `Cloud` `DevOps`
+`IT Support` `Wireless Troubleshooting` `UniFi` `NOC Support` `Server Rack` `CAT6` `Printer Maintenance`
 
-### AI / ML Engineer
-**Applied AI Projects & Research-Based Development**  
-**2023 - Present**
+### Sales Support Staff
+**PT Parsaoran Global Datatrans / ION Network**  
+**May 2026 - May 2026**
 
-Developing machine learning and intelligent software systems with emphasis on practical deployment, measurable performance, data quality, and integration into real product workflows.
+Supported ISP field operations through site surveys, BOQ preparation, topology documentation, device coordination, activation support, and L1 troubleshooting.
 
-- Built supervised learning pipelines for structured prediction tasks.
-- Experimented with NLP workflows using embeddings, semantic similarity, retrieval systems, and LLM application patterns.
-- Evaluated models using appropriate metrics, error analysis, and reproducible experiment practices.
-- Designed AI system architecture with memory, feedback loops, knowledge representation, and API-driven interaction.
-- Integrated AI services into backend APIs, security tooling concepts, and full-stack product workflows.
+- Surveyed customer material requirements for Klinik Salam Sarma.
+- Created BOQ in Excel with 1-year, 2-year, and 3-year bandwidth subscription options.
+- Coordinated with central NOC for device activation.
+- Coordinated with warehouse and GA department for device and tool availability.
+- Created network topology from field survey results using Visio.
+- Performed L1 troubleshooting and supported field activation with technicians.
+- Assisted troubleshooting at RSUD Sjafrie Rachman for a failed H3C access point with coordination to Jakarta support.
 
-`Machine Learning` `Deep Learning` `NLP` `MLOps` `Python` `FastAPI` `AI Systems`
+`ISP Operations` `BOQ` `Visio` `L1 Troubleshooting` `NOC Coordination` `Site Survey` `Network Topology`
 
 ### Cybersecurity Product Builder
 **Above Security**  
@@ -239,12 +264,27 @@ Developing machine learning and intelligent software systems with emphasis on pr
 Building a public cybersecurity platform focused on security tools, threat visualization, network utilities, AI-assisted security concepts, and practical defensive engineering workflows.
 
 - Developed public-facing security product pages and tool interfaces.
+- Deployed the website using domain management, dedicated server infrastructure, and Cloudflare Tunnel.
 - Designed cybersecurity workflows for network monitoring, hash generation, file encryption, scanning, obfuscation, and network utilities.
-- Built interactive threat simulation experiences for security awareness and visual intelligence.
-- Organized security features into a polished platform with recruiter-friendly product presentation.
-- Applied software engineering discipline to security-focused product delivery.
+- Built interactive security experiences for awareness, testing, and technical presentation.
+- Applied network engineering and cybersecurity discipline to product-focused delivery.
 
-`Cybersecurity` `Security Tools` `Threat Intelligence` `Network Security` `Secure Product Design`
+`Cybersecurity` `Security Tools` `Cloudflare Tunnel` `Dedicated Server` `Network Security` `Secure Product Design`
+
+### Network & Security Engineering Student
+**SMKN 1 Sungailiat - Computer Network and Telecommunication Engineering**  
+**Jul 2023 - May 2026**
+
+Studied and practiced network engineering, system administration, fiber optic installation, server operations, troubleshooting, and network security fundamentals.
+
+- Configured MikroTik routers, Ubiquiti access points, and TP-Link devices.
+- Installed and configured Windows Server and Debian Linux systems.
+- Practiced LAN, WAN, wireless, firewall, and school network troubleshooting.
+- Performed UTP crimping, fiber optic splicing, dropcore installation, patchcord handling, and cable pulling.
+- Built school hotspot voucher workflows using MikroTik Hotspot and User Manager.
+- Used Microsoft Office, Excel, PowerPoint, Word, and Visio for documentation and reporting.
+
+`MikroTik` `Fiber Optic` `Windows Server` `Debian` `LAN/WAN` `Firewall` `Visio` `Documentation`
 
 ---
 
@@ -254,12 +294,12 @@ Building a public cybersecurity platform focused on security tools, threat visua
 
 | Recognition | Details |
 |:---:|---|
-| Engineering Portfolio | Built a multi-domain software engineering portfolio across AI, backend, frontend, cybersecurity, cloud, and product systems |
-| Above Security Platform | Developed a public cybersecurity product presence with tools, AI concepts, and threat intelligence experiences |
-| AI Product Development | Delivered applied AI workflows and system concepts integrated into usable software experiences |
-| Full-Stack Execution | Developed complete product interfaces from architecture planning to public deployment |
-| Open Source Presence | Established a GitHub-based engineering identity with profile branding, public portfolio links, and reusable project positioning |
-| Continuous Learning | Strong focus on certifications, modern tools, software architecture, applied engineering depth, and secure systems |
+| LKS Cyber Security Runner-Up | Achieved 2nd place in LKS Cyber Security at Bangka Belitung Province level in 2026 |
+| Network Engineering Track | Completed SMK Computer Network and Telecommunication Engineering training with hands-on infrastructure practice |
+| Government IT Support | Supported DINKOMINFOTIK Bangka operations across endpoint, wireless, meeting equipment, rack, and NOC tasks |
+| ISP Field Operations | Supported ION Network survey, BOQ, topology, activation coordination, and L1 troubleshooting workflows |
+| Above Security Platform | Built and deployed a public cybersecurity platform using domain, dedicated server, and Cloudflare Tunnel |
+| Security Monitoring Lab | Built a Wazuh-based monitoring lab integrated with MikroTik, UniFi, CCTV, and endpoint visibility |
 
 </div>
 
@@ -267,25 +307,18 @@ Building a public cybersecurity platform focused on security tools, threat visua
 
 ## Certifications
 
-### AWS
+### School & Competition
 
-<img src='https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Cloud Foundations' />
-<img src='https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Path-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Cloud Practitioner Path' />
+<img src='https://img.shields.io/badge/UKK-Sertifikat%20Uji%20Kompetensi%20Keahlian-111827?style=for-the-badge&logo=readthedocs&logoColor=A78BFA' alt='UKK Certificate' />
+<img src='https://img.shields.io/badge/LKS%20Cyber%20Security-Juara%202%20Provinsi%20Babel%202026-111827?style=for-the-badge&logo=hackthebox&logoColor=60A5FA' alt='LKS Cyber Security Runner Up' />
 
-### Oracle
+### Cybersecurity Training
 
-<img src='https://img.shields.io/badge/Oracle-Database%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Database Foundations' />
-<img src='https://img.shields.io/badge/Oracle-Java%20Foundations-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Java Foundations' />
-
-### NPTEL
-
-<img src='https://img.shields.io/badge/NPTEL-Machine%20Learning-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL Machine Learning' />
-<img src='https://img.shields.io/badge/NPTEL-Data%20Science-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL Data Science' />
-
-### Cisco
-
-<img src='https://img.shields.io/badge/Cisco-Networking%20Basics-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Networking Basics' />
-<img src='https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Cybersecurity Essentials' />
+<img src='https://img.shields.io/badge/Cyber%20Sentinel%20Secure-Graduate-111827?style=for-the-badge&logo=securityscorecard&logoColor=A78BFA' alt='Cyber Sentinel Secure' />
+<img src='https://img.shields.io/badge/Phishing%20Prevention-Certificate-111827?style=for-the-badge&logo=maildotru&logoColor=60A5FA' alt='Phishing Prevention' />
+<img src='https://img.shields.io/badge/CCEP-Cybersecurity%20Educator%20Professional-111827?style=for-the-badge&logo=academia&logoColor=A78BFA' alt='CCEP' />
+<img src='https://img.shields.io/badge/CRTOM-Red%20Team%20Operations%20Management-111827?style=for-the-badge&logo=tryhackme&logoColor=60A5FA' alt='CRTOM' />
+<img src='https://img.shields.io/badge/CCSC-Cybersecurity%20Career%20Starter-111827?style=for-the-badge&logo=cyberdefenders&logoColor=A78BFA' alt='CCSC' />
 
 ---
 
@@ -360,34 +393,33 @@ Building a public cybersecurity platform focused on security tools, threat visua
 
 ```yaml
 Learning:
-  - Advanced software architecture
-  - Applied AI engineering
-  - Cloud-native systems
-  - Production-grade ML workflows
-  - Cybersecurity engineering
+  - Advanced MikroTik routing and firewalling
+  - Network segmentation and secure infrastructure
+  - Wazuh SIEM monitoring and alert analysis
+  - Linux server administration
+  - Web security testing and bug bounty methodology
 
 Building:
   - Above Security platform
-  - AI-powered developer tools
-  - Cybersecurity tools and simulations
-  - Full-stack SaaS applications
-  - Scalable backend platforms
-  - Recruiter-ready engineering portfolio projects
+  - Wazuh-based monitoring lab
+  - MikroTik hotspot and voucher workflows
+  - Web security testing utilities
+  - Network documentation and topology templates
 
 Exploring:
-  - LLM application design
-  - Retrieval augmented generation
-  - Threat intelligence platforms
-  - Secure product engineering
-  - Distributed systems
+  - SOC analyst workflows
+  - NOC operations and ISP deployment practice
+  - Cloudflare Tunnel and secure hosting
+  - FortiOS and Palo Alto firewall fundamentals
+  - Security automation with Python
 
 Open To:
-  - Software Engineer roles
-  - AI Engineer roles
-  - Full-Stack Engineer roles
-  - Cybersecurity Engineer roles
-  - Open-source collaboration
-  - Technical research projects
+  - Network Engineer roles
+  - IT Support roles
+  - NOC / L1 Network Operations roles
+  - Junior Cybersecurity Analyst roles
+  - Junior System Administrator roles
+  - Open-source cybersecurity collaboration
 ```
 
 ---
@@ -415,7 +447,7 @@ Open To:
 
 <div align='center'>
 
-**Engineering reliable software, intelligent systems, and secure product experiences with clarity, precision, and long-term maintainability.**
+**Building reliable networks, secure infrastructure, and practical cybersecurity tools with discipline, clarity, and hands-on execution.**
 
 <img width='100%' src='https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,35:7C3AED,70:4C1D95,100:0D1117' alt='Footer banner' />
 
