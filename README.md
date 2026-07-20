@@ -286,29 +286,7 @@ Practicing network operations and IT support workflows across endpoint troublesh
 
 </div>
 
----
 
-## Certifications
-
-### AWS
-
-<img src='https://img.shields.io/badge/AWS-Cloud%20Networking%20Track-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Cloud Networking Track' />
-<img src='https://img.shields.io/badge/AWS-Security%20Foundations%20Path-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900' alt='AWS Security Foundations Path' />
-
-### Oracle
-
-<img src='https://img.shields.io/badge/Oracle-Linux%20Administration%20Track-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Linux Administration Track' />
-<img src='https://img.shields.io/badge/Oracle-Database%20Foundations%20Path-111827?style=for-the-badge&logo=oracle&logoColor=F80000' alt='Oracle Database Foundations Path' />
-
-### NPTEL
-
-<img src='https://img.shields.io/badge/NPTEL-Cybersecurity%20Study%20Track-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL Cybersecurity Study Track' />
-<img src='https://img.shields.io/badge/NPTEL-IoT%20Systems%20Study%20Track-111827?style=for-the-badge&logo=bookstack&logoColor=A78BFA' alt='NPTEL IoT Systems Study Track' />
-
-### Cisco
-
-<img src='https://img.shields.io/badge/Cisco-Networking%20Basics%20Track-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Networking Basics Track' />
-<img src='https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials%20Track-111827?style=for-the-badge&logo=cisco&logoColor=1BA0D7' alt='Cisco Cybersecurity Essentials Track' />
 
 ---
 
@@ -333,19 +311,7 @@ Practicing network operations and IT support workflows across endpoint troublesh
 
 ---
 
-## GitHub Analytics
 
-<div align='center'>
-
-<img height='190' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/github-stats.svg' alt='GitHub stats' />
-<img height='190' src='https://streak-stats.demolab.com?user=vtino17&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD' alt='GitHub streak' />
-
-<br/>
-<br/>
-
-<img width='75%' src='https://raw.githubusercontent.com/vtino17/vtino17/cbc745ed534867f7929dd49f92c2427125c4e884/assets/top-languages.svg' alt='Top languages' />
-
-</div>
 
 
 ---
