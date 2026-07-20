@@ -347,15 +347,6 @@ Practicing network operations and IT support workflows across endpoint troublesh
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align='center'>
-
-<img width='100%' src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/github-trophies.svg' alt='GitHub trophies' />
-
-</div>
 
 ---
 
