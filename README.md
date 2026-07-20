@@ -314,25 +314,7 @@ Practicing network operations and IT support workflows across endpoint troublesh
 
 
 
----
 
-## Contribution Activity
-
-<div align='center'>
-
-<img src='https://github-readme-activity-graph.vercel.app/graph?username=vtino17&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=60A5FA&area=true&hide_border=true&custom_title=Contribution%20Activity' alt='Contribution activity graph' />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align='center'>
-
-<img src='https://raw.githubusercontent.com/vtino17/vtino17/main/assets/contribution-snake.svg' alt='Contribution snake animation' />
-
-</div>
 
 ---
 
