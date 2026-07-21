@@ -31,9 +31,7 @@
 <br/>
 <br/>
 
-<img src='https://komarev.com/ghpvc/?username=vtino17&label=Profile%20Views&color=7C3AED&style=flat-square' alt='Profile views' />
-<img src='https://img.shields.io/github/followers/vtino17?label=Followers&style=flat-square&color=6366F1&logo=github' alt='Followers' />
-<img src='https://img.shields.io/github/stars/vtino17?label=Stars&style=flat-square&color=A78BFA&logo=github' alt='Stars' />
+
 
 </div>
 
