@@ -106,25 +106,14 @@ I am especially interested in network security monitoring, Linux and Windows ser
 
 ## Featured Projects
 
-<details>
-<summary><b>Network Security Monitoring Lab</b></summary>
+| Project | What it demonstrates | Verification |
+|---|---|---|
+| [KAGE](https://github.com/vtino17/kage) | A local-first Go CLI that combines Semgrep, Gitleaks, and Trivy, emits SARIF, and keeps AI-assisted explanations optional | Automated tests, race checks, builds, and security scanning in GitHub Actions |
+| [TaskCapsule](https://github.com/vtino17/taskcapsule) | Isolated Git worktrees and managed local services for pausing and resuming development tasks safely | Go tests, configuration validation, and cross-platform CI |
+| [Network Security Lab](https://github.com/vtino17/network-security-lab) | A reproducible defensive lab using Wazuh, Prometheus, Grafana, Docker, and hardened deployment scripts | Deployment-safety regression tests and documented local-only service exposure |
 
-<br/>
-
-A practical security monitoring environment focused on network visibility, endpoint awareness, firewall control, and SIEM-based analysis. The lab is designed to connect infrastructure operations with cybersecurity monitoring workflows.
-
-| Category | Details |
-|---|---|
-| Stack | Ubuntu Server, Wazuh SIEM, MikroTik, UniFi, Linux, Windows Endpoint, Firewall Rules |
-| Scale | Home and lab infrastructure with monitored network, endpoint, and device components |
-| Performance | Lightweight deployment model with focused event collection and operational dashboards |
-| Security | Segmented access, restricted router management, alert visibility, and defensive monitoring |
-| Impact | Builds hands-on SOC and infrastructure monitoring capability using real systems |
-| Repository | [Project Index](https://github.com/vtino17?tab=repositories) |
-
-This project demonstrates infrastructure-first security thinking: monitor what matters, restrict sensitive access, document the environment, and build repeatable operational visibility.
-
-</details>
+These are the three repositories I currently maintain as the clearest examples
+of my security tooling, systems engineering, and infrastructure work.
 
 ---
 
