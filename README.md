@@ -113,7 +113,7 @@ I am especially interested in network security monitoring, Linux and Windows ser
 | [Network Security Lab](https://github.com/vtino17/network-security-lab) | A reproducible defensive lab using Wazuh, Prometheus, Grafana, Docker, and hardened deployment scripts | Deployment-safety regression tests and documented local-only service exposure |
 | [deep-mind-skill](https://github.com/vtino17/deep-mind-skill) | Critical-thinking skill pack that adds an 8-stage verification pipeline to AI coding agents | Install-safety guards for 11+ agents, mojibake-free docs, multi-agent support |
 
-These are the three repositories I currently maintain as the clearest examples
+These are the repositories I currently maintain as the clearest examples
 of my security tooling, systems engineering, and infrastructure work.
 
 ---
